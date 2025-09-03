@@ -1,6 +1,2 @@
-# Dev environment
-pip
-autopep8
-
-# App
-flask
+sudo apt update && sudo apt install python3 python3-pip -y
+pip install python-telegram-bot==20.7
